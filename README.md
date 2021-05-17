@@ -1,4 +1,4 @@
 # KPIC_Crawling
 
-It's Web Crawler by Korea Pharmaceutical Information Center
+It's Web Crawler for Korea Pharmaceutical Information Center
 
